@@ -1,6 +1,6 @@
 %% ***********************************************************************
 % Brain Product actiCHamp data acquisition function and Band Pass + Stop(60Hz)
-% filter by Junhyuk Choi (3rd order)
+% filter by Junhyuk Choi (3rd order).
 
 % function [EEGData_raw, EEGData_bpf, EMGData_raw, MarkerData] = BPRDA_DataAcq_USETHIS()
 function [EEGData_raw, EMGData_raw, MarkerData] = BPRDA_DataAcq()
